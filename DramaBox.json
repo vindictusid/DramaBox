@@ -483,6 +483,13 @@
     "allowOffline": true
   },
   {
+    "id": "b39048038fd89fc9",
+    "username": "6289520755115",
+    "password": "dramabox",
+    "expiresAt": "2026-06-12",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
